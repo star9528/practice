@@ -1,0 +1,16 @@
+dao\DictionaryTagDAO.class
+dao\StudentDAO.class
+servlet\DictionaryTagQueryServlet.class
+util\DBUtil.class
+util\JSONUtil.class
+model\DictionaryTag.class
+servlet\StudentQueryServlet.class
+model\Building.class
+dao\BuildingDAO.class
+model\Student.class
+servlet\AbstractBaseServlet.class
+model\Dorm.class
+model\Dictionary.class
+model\Response.class
+servlet\BuildingQueryServlet.class
+model\User.class
